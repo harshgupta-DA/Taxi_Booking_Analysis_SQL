@@ -1,1 +1,301 @@
-
+cancel_id,ride_id,cancelled_by,cancel_reason
+1,787,Driver,Rider no-show
+2,1031,Rider,Vehicle issue
+3,584,Rider,Vehicle issue
+4,27,Driver,Rider no-show
+5,910,Rider,Vehicle issue
+6,884,Driver,Traffic
+7,771,Driver,Vehicle issue
+8,419,Rider,Vehicle issue
+9,14,Rider,Vehicle issue
+10,647,Rider,Rider no-show
+11,932,Driver,Vehicle issue
+12,226,Driver,Traffic
+13,856,Driver,Changed plan
+14,182,Driver,Traffic
+15,691,Driver,Vehicle issue
+16,870,Driver,Changed plan
+17,1151,Driver,Traffic
+18,806,Rider,Changed plan
+19,574,Rider,Traffic
+20,619,Driver,Vehicle issue
+21,294,Driver,Changed plan
+22,431,Driver,Rider no-show
+23,966,Rider,Rider no-show
+24,967,Driver,Traffic
+25,399,Driver,Changed plan
+26,178,Rider,Vehicle issue
+27,1119,Rider,Vehicle issue
+28,1171,Rider,Rider no-show
+29,597,Rider,Rider no-show
+30,935,Driver,Rider no-show
+31,50,Driver,Vehicle issue
+32,618,Driver,Rider no-show
+33,161,Rider,Vehicle issue
+34,105,Rider,Changed plan
+35,830,Driver,Traffic
+36,453,Driver,Changed plan
+37,19,Rider,Vehicle issue
+38,339,Rider,Changed plan
+39,189,Driver,Vehicle issue
+40,281,Driver,Traffic
+41,350,Driver,Changed plan
+42,291,Driver,Rider no-show
+43,1139,Driver,Traffic
+44,231,Driver,Rider no-show
+45,293,Rider,Changed plan
+46,240,Driver,Traffic
+47,914,Driver,Rider no-show
+48,898,Driver,Changed plan
+49,425,Rider,Traffic
+50,903,Rider,Vehicle issue
+51,671,Rider,Vehicle issue
+52,561,Driver,Rider no-show
+53,936,Rider,Changed plan
+54,290,Rider,Traffic
+55,1185,Rider,Traffic
+56,1107,Driver,Vehicle issue
+57,361,Driver,Rider no-show
+58,345,Driver,Traffic
+59,744,Rider,Vehicle issue
+60,115,Rider,Rider no-show
+61,905,Rider,Traffic
+62,229,Driver,Vehicle issue
+63,17,Rider,Rider no-show
+64,698,Rider,Traffic
+65,638,Rider,Rider no-show
+66,147,Driver,Changed plan
+67,81,Rider,Changed plan
+68,979,Rider,Changed plan
+69,222,Rider,Rider no-show
+70,711,Rider,Traffic
+71,417,Rider,Changed plan
+72,499,Rider,Changed plan
+73,899,Rider,Vehicle issue
+74,746,Rider,Changed plan
+75,503,Rider,Vehicle issue
+76,1122,Driver,Vehicle issue
+77,299,Rider,Traffic
+78,304,Driver,Rider no-show
+79,254,Rider,Rider no-show
+80,1147,Driver,Vehicle issue
+81,616,Rider,Traffic
+82,587,Rider,Changed plan
+83,67,Driver,Vehicle issue
+84,471,Rider,Rider no-show
+85,296,Rider,Changed plan
+86,432,Driver,Changed plan
+87,452,Rider,Vehicle issue
+88,280,Rider,Vehicle issue
+89,48,Rider,Vehicle issue
+90,32,Driver,Rider no-show
+91,752,Rider,Vehicle issue
+92,376,Driver,Traffic
+93,260,Driver,Changed plan
+94,882,Driver,Traffic
+95,169,Rider,Traffic
+96,49,Driver,Vehicle issue
+97,668,Rider,Rider no-show
+98,569,Rider,Traffic
+99,1092,Rider,Vehicle issue
+100,258,Rider,Vehicle issue
+101,896,Rider,Changed plan
+102,266,Rider,Vehicle issue
+103,151,Rider,Vehicle issue
+104,692,Driver,Vehicle issue
+105,1030,Driver,Vehicle issue
+106,883,Driver,Rider no-show
+107,538,Rider,Traffic
+108,58,Rider,Traffic
+109,674,Driver,Vehicle issue
+110,357,Driver,Traffic
+111,513,Driver,Rider no-show
+112,1013,Rider,Rider no-show
+113,316,Driver,Changed plan
+114,961,Rider,Rider no-show
+115,955,Driver,Traffic
+116,438,Rider,Rider no-show
+117,566,Driver,Changed plan
+118,1161,Rider,Changed plan
+119,772,Driver,Vehicle issue
+120,795,Rider,Rider no-show
+121,220,Driver,Rider no-show
+122,637,Rider,Changed plan
+123,696,Rider,Changed plan
+124,628,Rider,Traffic
+125,537,Rider,Traffic
+126,971,Rider,Traffic
+127,172,Driver,Rider no-show
+128,485,Rider,Changed plan
+129,762,Driver,Changed plan
+130,1135,Driver,Changed plan
+131,528,Rider,Vehicle issue
+132,430,Rider,Changed plan
+133,631,Rider,Vehicle issue
+134,446,Driver,Rider no-show
+135,1103,Rider,Traffic
+136,1058,Driver,Traffic
+137,589,Driver,Traffic
+138,652,Driver,Traffic
+139,662,Rider,Traffic
+140,5,Driver,Changed plan
+141,436,Driver,Traffic
+142,544,Rider,Changed plan
+143,659,Driver,Rider no-show
+144,457,Rider,Vehicle issue
+145,804,Driver,Rider no-show
+146,1005,Rider,Vehicle issue
+147,500,Driver,Changed plan
+148,282,Rider,Changed plan
+149,145,Driver,Rider no-show
+150,303,Driver,Vehicle issue
+151,1055,Rider,Vehicle issue
+152,415,Rider,Rider no-show
+153,881,Rider,Rider no-show
+154,599,Rider,Changed plan
+155,1117,Driver,Vehicle issue
+156,957,Rider,Rider no-show
+157,871,Driver,Vehicle issue
+158,246,Driver,Traffic
+159,773,Rider,Changed plan
+160,310,Rider,Vehicle issue
+161,822,Rider,Traffic
+162,602,Rider,Changed plan
+163,37,Rider,Changed plan
+164,167,Rider,Changed plan
+165,141,Driver,Changed plan
+166,542,Rider,Traffic
+167,1136,Driver,Rider no-show
+168,972,Driver,Rider no-show
+169,634,Driver,Changed plan
+170,211,Rider,Traffic
+171,353,Rider,Vehicle issue
+172,799,Driver,Changed plan
+173,960,Driver,Changed plan
+174,177,Rider,Traffic
+175,336,Rider,Traffic
+176,952,Driver,Traffic
+177,527,Rider,Vehicle issue
+178,124,Rider,Changed plan
+179,1165,Driver,Rider no-show
+180,540,Driver,Changed plan
+181,775,Driver,Traffic
+182,3,Driver,Rider no-show
+183,1033,Rider,Rider no-show
+184,1063,Rider,Changed plan
+185,375,Driver,Changed plan
+186,1000,Rider,Traffic
+187,975,Driver,Rider no-show
+188,636,Driver,Vehicle issue
+189,362,Rider,Rider no-show
+190,168,Driver,Rider no-show
+191,237,Driver,Changed plan
+192,579,Rider,Rider no-show
+193,920,Driver,Rider no-show
+194,781,Driver,Vehicle issue
+195,943,Driver,Rider no-show
+196,36,Driver,Changed plan
+197,1178,Driver,Changed plan
+198,1032,Rider,Changed plan
+199,132,Rider,Rider no-show
+200,858,Driver,Vehicle issue
+201,9,Driver,Traffic
+202,466,Driver,Rider no-show
+203,158,Rider,Rider no-show
+204,793,Driver,Changed plan
+205,606,Driver,Changed plan
+206,801,Driver,Traffic
+207,1137,Driver,Rider no-show
+208,534,Rider,Changed plan
+209,238,Rider,Changed plan
+210,523,Driver,Traffic
+211,502,Driver,Traffic
+212,1158,Rider,Traffic
+213,21,Rider,Traffic
+214,273,Driver,Changed plan
+215,1025,Rider,Vehicle issue
+216,243,Driver,Traffic
+217,180,Driver,Changed plan
+218,1109,Driver,Rider no-show
+219,590,Rider,Rider no-show
+220,176,Driver,Changed plan
+221,467,Driver,Changed plan
+222,1101,Driver,Rider no-show
+223,837,Rider,Changed plan
+224,585,Driver,Traffic
+225,96,Rider,Vehicle issue
+226,1006,Rider,Vehicle issue
+227,422,Driver,Vehicle issue
+228,298,Rider,Changed plan
+229,797,Rider,Rider no-show
+230,821,Rider,Traffic
+231,175,Driver,Vehicle issue
+232,937,Driver,Changed plan
+233,1159,Rider,Traffic
+234,995,Rider,Rider no-show
+235,774,Driver,Changed plan
+236,41,Rider,Vehicle issue
+237,192,Rider,Traffic
+238,351,Driver,Rider no-show
+239,1020,Rider,Rider no-show
+240,894,Driver,Vehicle issue
+241,1091,Rider,Traffic
+242,780,Driver,Vehicle issue
+243,605,Driver,Vehicle issue
+244,179,Rider,Traffic
+245,852,Rider,Changed plan
+246,562,Rider,Vehicle issue
+247,733,Rider,Vehicle issue
+248,869,Driver,Rider no-show
+249,968,Driver,Traffic
+250,6,Rider,Changed plan
+251,410,Driver,Traffic
+252,217,Rider,Changed plan
+253,514,Driver,Rider no-show
+254,4,Driver,Traffic
+255,506,Rider,Vehicle issue
+256,397,Rider,Traffic
+257,209,Rider,Traffic
+258,297,Rider,Traffic
+259,794,Driver,Traffic
+260,166,Driver,Vehicle issue
+261,341,Driver,Traffic
+262,212,Rider,Rider no-show
+263,942,Rider,Vehicle issue
+264,38,Driver,Rider no-show
+265,334,Rider,Vehicle issue
+266,620,Driver,Traffic
+267,1169,Rider,Traffic
+268,521,Rider,Changed plan
+269,1146,Driver,Vehicle issue
+270,951,Driver,Vehicle issue
+271,218,Driver,Rider no-show
+272,210,Rider,Rider no-show
+273,642,Driver,Changed plan
+274,732,Rider,Traffic
+275,1194,Driver,Rider no-show
+276,719,Driver,Changed plan
+277,633,Driver,Rider no-show
+278,228,Driver,Traffic
+279,199,Driver,Vehicle issue
+280,918,Rider,Traffic
+281,970,Driver,Rider no-show
+282,79,Rider,Rider no-show
+283,603,Rider,Rider no-show
+284,1102,Driver,Traffic
+285,740,Rider,Changed plan
+286,988,Rider,Changed plan
+287,578,Driver,Changed plan
+288,504,Driver,Changed plan
+289,583,Driver,Rider no-show
+290,367,Driver,Traffic
+291,327,Driver,Vehicle issue
+292,825,Driver,Vehicle issue
+293,459,Rider,Vehicle issue
+294,1198,Rider,Changed plan
+295,71,Driver,Vehicle issue
+296,721,Driver,Rider no-show
+297,274,Rider,Rider no-show
+298,414,Rider,Rider no-show
+299,1057,Driver,Vehicle issue
+300,385,Driver,Vehicle issue
